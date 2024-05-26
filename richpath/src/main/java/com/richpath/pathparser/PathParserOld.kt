@@ -3,7 +3,7 @@ package com.richpath.pathparser
 import android.graphics.Path
 import android.os.Build
 
-object PathParser {
+object PathParserOld {
 
     /**
      * @param pathData The string representing a path, the same as "d" string in svg file.
